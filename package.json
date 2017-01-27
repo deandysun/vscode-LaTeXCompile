@@ -55,7 +55,7 @@
                 },
 				"latexCompile.compiler": {
                     "type": "string",
-                    "default": "pdflatex",
+                    "default": "xelatex",
                     "description": "The compiler to use" 
                 },
 				"latexCompile.mainFile": {
